@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74ec4ea62cebfdbbbf9130206b235090",
+    "revision": "2a1f12c903ff40a9f15f602da78a5f8f",
     "url": "/internship-exp-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/internship-exp-react/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "be2fb4e54a37247ae1c9",
-    "url": "/internship-exp-react/static/css/main.74b720c6.chunk.css"
+    "revision": "b3e66f244423dedb2f74",
+    "url": "/internship-exp-react/static/css/main.6fc90615.chunk.css"
   },
   {
     "revision": "2ff444c7a6c55313a765",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/internship-exp-react/static/js/2.88e44534.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be2fb4e54a37247ae1c9",
+    "revision": "b3e66f244423dedb2f74",
     "url": "/internship-exp-react/static/js/main.f94a08cf.chunk.js"
   },
   {
