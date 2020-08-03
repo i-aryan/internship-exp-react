@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/internship-exp-react/static/css/main.b801c03a.chunk.css",
-    "main.js": "/internship-exp-react/static/js/main.c25e1791.chunk.js",
-    "main.js.map": "/internship-exp-react/static/js/main.c25e1791.chunk.js.map",
+    "main.css": "/internship-exp-react/static/css/main.2ebbacea.chunk.css",
+    "main.js": "/internship-exp-react/static/js/main.f1a57ff1.chunk.js",
+    "main.js.map": "/internship-exp-react/static/js/main.f1a57ff1.chunk.js.map",
     "runtime-main.js": "/internship-exp-react/static/js/runtime-main.2b0a004c.js",
     "runtime-main.js.map": "/internship-exp-react/static/js/runtime-main.2b0a004c.js.map",
     "static/css/2.af3c1da9.chunk.css": "/internship-exp-react/static/css/2.af3c1da9.chunk.css",
     "static/js/2.0014abaa.chunk.js": "/internship-exp-react/static/js/2.0014abaa.chunk.js",
     "static/js/2.0014abaa.chunk.js.map": "/internship-exp-react/static/js/2.0014abaa.chunk.js.map",
     "index.html": "/internship-exp-react/index.html",
-    "precache-manifest.c5be4eff5c7c64dfeea1108de0f7cf59.js": "/internship-exp-react/precache-manifest.c5be4eff5c7c64dfeea1108de0f7cf59.js",
+    "precache-manifest.ab3e28812bf2519882eca50d515afdd4.js": "/internship-exp-react/precache-manifest.ab3e28812bf2519882eca50d515afdd4.js",
     "service-worker.js": "/internship-exp-react/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/internship-exp-react/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.b801c03a.chunk.css.map": "/internship-exp-react/static/css/main.b801c03a.chunk.css.map",
+    "static/css/main.2ebbacea.chunk.css.map": "/internship-exp-react/static/css/main.2ebbacea.chunk.css.map",
     "static/js/2.0014abaa.chunk.js.LICENSE.txt": "/internship-exp-react/static/js/2.0014abaa.chunk.js.LICENSE.txt",
     "static/media/aniket_image.jpeg": "/internship-exp-react/static/media/aniket_image.211e266c.jpeg",
     "static/media/aryan_image.jpg": "/internship-exp-react/static/media/aryan_image.0113d199.jpg",
-    "static/media/logo.jpg": "/internship-exp-react/static/media/logo.16374031.jpg",
+    "static/media/logo2.jpg": "/internship-exp-react/static/media/logo2.2fdd824e.jpg",
     "static/media/smita_image.jpeg": "/internship-exp-react/static/media/smita_image.6c63d14c.jpeg",
     "static/media/utkarsh_image.jpeg": "/internship-exp-react/static/media/utkarsh_image.9ff8cecd.jpeg"
   },
@@ -24,7 +24,7 @@
     "static/js/runtime-main.2b0a004c.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.0014abaa.chunk.js",
-    "static/css/main.b801c03a.chunk.css",
-    "static/js/main.c25e1791.chunk.js"
+    "static/css/main.2ebbacea.chunk.css",
+    "static/js/main.f1a57ff1.chunk.js"
   ]
 }

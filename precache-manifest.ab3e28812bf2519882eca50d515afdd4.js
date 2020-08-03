@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80ac10407a2e8bd1d3a5d684a94707d0",
+    "revision": "5aba6619826966e76608d1814f2c25b7",
     "url": "/internship-exp-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/internship-exp-react/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "11a515cdf962a1ad5d31",
-    "url": "/internship-exp-react/static/css/main.b801c03a.chunk.css"
+    "revision": "a877b37ae968987a9d3d",
+    "url": "/internship-exp-react/static/css/main.2ebbacea.chunk.css"
   },
   {
     "revision": "873581a0eaddb3afd8a6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/internship-exp-react/static/js/2.0014abaa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11a515cdf962a1ad5d31",
-    "url": "/internship-exp-react/static/js/main.c25e1791.chunk.js"
+    "revision": "a877b37ae968987a9d3d",
+    "url": "/internship-exp-react/static/js/main.f1a57ff1.chunk.js"
   },
   {
     "revision": "9ca99b765250974b9bd5",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/internship-exp-react/static/media/aryan_image.0113d199.jpg"
   },
   {
-    "revision": "16374031d390584aaf31aa6b6908cc1d",
-    "url": "/internship-exp-react/static/media/logo.16374031.jpg"
+    "revision": "2fdd824e7f860c3b4e15ae6705df8996",
+    "url": "/internship-exp-react/static/media/logo2.2fdd824e.jpg"
   },
   {
     "revision": "6c63d14cfcb247c5b4bbf7269c7a2ed8",
