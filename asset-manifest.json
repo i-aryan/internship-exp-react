@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/internship-exp-react/static/css/main.af12ea6a.chunk.css",
+    "main.css": "/internship-exp-react/static/css/main.c77dfb11.chunk.css",
     "main.js": "/internship-exp-react/static/js/main.c25e1791.chunk.js",
     "main.js.map": "/internship-exp-react/static/js/main.c25e1791.chunk.js.map",
     "runtime-main.js": "/internship-exp-react/static/js/runtime-main.2b0a004c.js",
@@ -9,10 +9,10 @@
     "static/js/2.0014abaa.chunk.js": "/internship-exp-react/static/js/2.0014abaa.chunk.js",
     "static/js/2.0014abaa.chunk.js.map": "/internship-exp-react/static/js/2.0014abaa.chunk.js.map",
     "index.html": "/internship-exp-react/index.html",
-    "precache-manifest.8f330a4913639f989d41daccab4d8fe3.js": "/internship-exp-react/precache-manifest.8f330a4913639f989d41daccab4d8fe3.js",
+    "precache-manifest.a71f1b097092e5516063ad01324d1fab.js": "/internship-exp-react/precache-manifest.a71f1b097092e5516063ad01324d1fab.js",
     "service-worker.js": "/internship-exp-react/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/internship-exp-react/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.af12ea6a.chunk.css.map": "/internship-exp-react/static/css/main.af12ea6a.chunk.css.map",
+    "static/css/main.c77dfb11.chunk.css.map": "/internship-exp-react/static/css/main.c77dfb11.chunk.css.map",
     "static/js/2.0014abaa.chunk.js.LICENSE.txt": "/internship-exp-react/static/js/2.0014abaa.chunk.js.LICENSE.txt",
     "static/media/aniket_image.jpeg": "/internship-exp-react/static/media/aniket_image.211e266c.jpeg",
     "static/media/aryan_image.jpg": "/internship-exp-react/static/media/aryan_image.0113d199.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.2b0a004c.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.0014abaa.chunk.js",
-    "static/css/main.af12ea6a.chunk.css",
+    "static/css/main.c77dfb11.chunk.css",
     "static/js/main.c25e1791.chunk.js"
   ]
 }
