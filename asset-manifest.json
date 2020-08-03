@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/internship-exp-react/static/css/main.cc53848d.chunk.css",
-    "main.js": "/internship-exp-react/static/js/main.15e4f3d6.chunk.js",
-    "main.js.map": "/internship-exp-react/static/js/main.15e4f3d6.chunk.js.map",
+    "main.js": "/internship-exp-react/static/js/main.3a77e420.chunk.js",
+    "main.js.map": "/internship-exp-react/static/js/main.3a77e420.chunk.js.map",
     "runtime-main.js": "/internship-exp-react/static/js/runtime-main.2b0a004c.js",
     "runtime-main.js.map": "/internship-exp-react/static/js/runtime-main.2b0a004c.js.map",
     "static/css/2.af3c1da9.chunk.css": "/internship-exp-react/static/css/2.af3c1da9.chunk.css",
     "static/js/2.0014abaa.chunk.js": "/internship-exp-react/static/js/2.0014abaa.chunk.js",
     "static/js/2.0014abaa.chunk.js.map": "/internship-exp-react/static/js/2.0014abaa.chunk.js.map",
     "index.html": "/internship-exp-react/index.html",
-    "precache-manifest.4630f9cdf3d0f351f094a16895d0661d.js": "/internship-exp-react/precache-manifest.4630f9cdf3d0f351f094a16895d0661d.js",
+    "precache-manifest.88e42eeebedb6a5354def44174be8621.js": "/internship-exp-react/precache-manifest.88e42eeebedb6a5354def44174be8621.js",
     "service-worker.js": "/internship-exp-react/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/internship-exp-react/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.cc53848d.chunk.css.map": "/internship-exp-react/static/css/main.cc53848d.chunk.css.map",
     "static/js/2.0014abaa.chunk.js.LICENSE.txt": "/internship-exp-react/static/js/2.0014abaa.chunk.js.LICENSE.txt",
     "static/media/aniket_image.jpeg": "/internship-exp-react/static/media/aniket_image.211e266c.jpeg",
     "static/media/aryan_image.jpg": "/internship-exp-react/static/media/aryan_image.0113d199.jpg",
-    "static/media/logo.jpg": "/internship-exp-react/static/media/logo.01bc4dd9.jpg",
+    "static/media/logo2.jpg": "/internship-exp-react/static/media/logo2.b6157996.jpg",
     "static/media/smita_image.jpeg": "/internship-exp-react/static/media/smita_image.6c63d14c.jpeg",
     "static/media/utkarsh_image.jpeg": "/internship-exp-react/static/media/utkarsh_image.9ff8cecd.jpeg"
   },
@@ -25,6 +25,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.0014abaa.chunk.js",
     "static/css/main.cc53848d.chunk.css",
-    "static/js/main.15e4f3d6.chunk.js"
+    "static/js/main.3a77e420.chunk.js"
   ]
 }
